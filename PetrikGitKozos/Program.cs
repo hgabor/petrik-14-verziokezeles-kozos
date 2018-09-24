@@ -11,8 +11,8 @@ namespace PetrikGitKozos
     {
         static void Main(string[] args)
         {
-            Color szin = Color.Tomato;
-            string szoveg = "Surprise!";
+            Color szin = Color.AntiqueWhite;
+            string szoveg = "Ram kattintottal!";
 
             Form1 f = new Form1(szin, szoveg);
             System.Windows.Forms.Application.Run(f);
