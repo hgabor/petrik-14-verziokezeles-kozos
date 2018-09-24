@@ -11,7 +11,7 @@ namespace PetrikGitKozos
     {
         static void Main(string[] args)
         {
-            Color szin = Color.Tomato;
+            Color szin = Color.Yellow;
             string szoveg = "Surprise!";
 
             Form1 f = new Form1(szin, szoveg);
